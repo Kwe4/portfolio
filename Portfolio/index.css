@@ -1,0 +1,272 @@
+/* #7510F7 */
+
+body {
+    font-family: europa, sans-serif;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+a {
+    color: currentColor;
+    text-decoration: currentColor;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+.btn {
+    background-color: transparent;
+    border-radius: 25px;
+    width: 100px;
+    border-color: blueviolet;
+    height: 50px;
+}
+
+
+.btn:hover {
+     background-color: blueviolet;
+     color: cornsilk;
+    }
+
+
+
+.nav-container {
+
+       height: 100px;
+       /* background-color: blueviolet; */
+       padding-right: 30px;
+       padding-left: 30px;
+}
+
+.nav-container li {
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 25px;
+    margin-bottom: 25px;
+
+}
+
+.logo-div {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.menu-div {
+    display: inline-block;
+    position:absolute;
+    right: 250px;
+    margin-top: 20px;
+    height: fit-content;
+}
+
+.btn-div {
+    display: inline-block;
+    position: absolute;
+    right: 60px;
+    margin-top: 25px;
+
+}
+
+.intro-container {
+     margin-top: 15px;     
+     text-align: center; 
+     padding: 30px;
+}
+
+#my-image {
+    width: 400px;
+}
+
+.my-image {
+    padding: -20px;
+
+}
+
+.heading {
+     font-size: 25px;
+}
+
+.sub-heading {
+    font-size: 25px;
+}    
+
+.web-apparatus {
+    text-align: center;
+}
+
+
+.mid-section-div {
+    background-color: #7510F7;
+    height: 350px;
+
+}
+
+.text-box {
+    text-align: center;
+    color: cornsilk;
+    padding-left: 320px;
+    padding-right: 320px;
+    margin-top: 25px;
+    padding-top: 100px;
+    line-height: 30px;
+}
+
+.heading2-div {
+    font-size: 20px;
+}
+
+
+.mid-par-div {
+    font-size: 20px;
+}
+
+
+.skills-section-container {
+
+height: 700px;
+padding-left: 85px;
+padding-right: 85px;
+background-color: #7510F7 ;
+}
+
+.skills-box {
+border-style: solid;
+border-width: 1px;
+border-radius: 10px;
+height: 800px;
+background-color: white;
+text-align: center;
+}
+
+.skills-1 {
+   
+     border-radius: 10px;
+     height: 700px;
+     background-color: white;
+     width: 22%;
+     display: inline-block;
+     padding-right: 50px;
+     padding-left: 50px;
+     text-align: center;
+     padding-top: 50px;
+     line-height: 25px;
+     font-size: 20px;
+     outline: black;
+}
+
+.skills-2 {
+
+    /* border-radius: 10px; */
+    height: 700px;
+    background-color: white ;
+    width: 22%;
+    display: inline-block ;
+    padding-right: 50px ;
+    padding-left: 50px ;
+    text-align: center ;
+    padding-top: 50px ;
+    line-height: 25px ;
+    font-size: 20px ;
+    border-style: solid ;
+    border-width: 1px ;
+}
+
+.skills-3 {
+    border-radius: 10px;
+    height: 700px;
+    background-color: white;
+    width: 22%;
+    display: inline-block;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 50px;
+    line-height: 25px;
+    font-size: 20px;
+
+}
+
+.in-box-list {
+    line-height: 30px;
+    list-style-type: none;
+    margin: 0px ;
+    padding-left: unset;
+}
+
+.colored-text {
+
+    color: #7510F7 ;
+}
+
+
+.my-work-container  {
+        
+    padding-left: 80px ;
+    padding-right: 80px ;
+    padding-top: 50px; ;
+}
+
+.my-work-div   {
+
+           text-align: center;
+           margin-top: 85px;       
+}
+
+.projects-box {
+       
+      margin-top: 100px;
+      
+}
+
+.project-box {
+
+      height: 260px;
+      width: 375px;
+      display: inline-block;
+      margin-bottom: 20px;
+      /* z-index: 1; */
+
+    }
+
+
+.project-img {
+      height: 260px;
+      width: 375px;
+      border-radius: 30px;
+      border-style: solid;
+      border-width: 1px;
+}
+
+.project-1, .project-2, .project-4, .project-5 {
+    margin-right: 25px;
+}
+
+.project-3,.project-4,.project-5 {
+    margin-top: 25px;
+}
+
+.project-2, .project-3, .project-5, .project-6 {
+    margin-left: 10px;
+}
+
+.View-more-button-div {   
+    margin-top: 75px;
+    text-align: center;
+    
+}
+
+
+.view-more-button {
+    font-size: larger;
+    background-color: transparent;
+    border-radius: 25px;
+    width: 250px;
+    border-color: blueviolet;
+    height: 50px;
+    border-style: solid;
+}
+
+/* 2356 */
